@@ -2,7 +2,6 @@
 	padding: 0;
 	margin: 0;
 	background-color: rgb(255, 237, 163);
-	
 }
 .photo {
 	display: flex;
@@ -10,9 +9,8 @@
 	align-items: center;
 	width: 100%;
 	height: 100%;
-	margin-top: 2vh;
 }
 .photo img {
-	max-width: 1350px;
+	width: auto;
 	height: 100vmin;
 }

@@ -7,13 +7,13 @@ body {
 	display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(54, 33, 1);
+  background-color: rgb(255, 229, 127);
 	height: 100%;
 }
 .photo {
 	width: 100%;
 	height: fit-content;
-	background-color: aquamarine;
+	background-color: rgb(255, 229, 127);
 	display: flex;
   justify-content: center;
   align-items: center;
